@@ -19,14 +19,6 @@ This project focuses on the performance optimization of MultiPath TCP (MPTCP) in
 - **Python** for scripting and network simulation control.
 - **Linux Tools:** `tc` and `netem` for precise control over network parameters like bandwidth and packet loss.
 
-## Installation & Usage
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-2. Set up Mininet and Wireshark as per the instructions in their official documentation.
-3. Run the Python scripts to simulate the network environments and start experiments.
-4. Use Wireshark to capture and analyze packet data.
-
 ## Future Work
 - Extend the study to include more advanced congestion control algorithms such as BBR.
 - Explore real-world MPTCP performance in dynamic mobile network environments.
